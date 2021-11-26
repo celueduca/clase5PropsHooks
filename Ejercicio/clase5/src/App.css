@@ -1,0 +1,13 @@
+.App {
+  font-family: 'Oxygen', sans-serif;
+  height: 100%;
+  background: #845EC2;
+  background: linear-gradient(
+    180deg,
+    #845EC2 5%,
+    #B39CD0 15%,
+    #FBEAFF 30%,
+    #00C9A7 45%,
+    #0081CF 100%
+  );
+}
