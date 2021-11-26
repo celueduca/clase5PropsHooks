@@ -1,0 +1,38 @@
+[
+    {
+      "name": "PC",
+      "value": 5999,
+      "quantity": 29,
+      "img": "https://images.pexels.com/photos/1779487/pexels-photo-1779487.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+      "name": "teclado",
+      "value": 32910,
+      "quantity": 29,
+      "img": "https://images.pexels.com/photos/5380584/pexels-photo-5380584.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+      "name": "mouse",
+      "value": 59999,
+      "quantity": 29,
+      "img": "https://images.pexels.com/photos/2115256/pexels-photo-2115256.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "name": "mousepad",
+      "value": 59999,
+      "quantity": 29,
+      "img": "https://images.pexels.com/photos/6633920/pexels-photo-6633920.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+      "name": "Audifonos",
+      "value": 59999,
+      "quantity": 29,
+      "img": "https://images.pexels.com/photos/1649771/pexels-photo-1649771.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+      "name": "Iphone",
+      "value": 59999,
+      "quantity": 29,
+      "img": "https://images.pexels.com/photos/818043/pexels-photo-818043.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    }
+  ]
